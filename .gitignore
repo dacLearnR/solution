@@ -4,3 +4,5 @@
 .Ruserdata
 *.Rmd
 _site.yml
+images
+style.css
